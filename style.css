@@ -203,24 +203,30 @@ header h1{
 
 }
 
+.imgg
+
+{
+    width: -webkit-fill-available;
+}
+
 .s-img,.sa-img{
-    width: 200px;
+    width: 290px;
     height: auto;
 }
 #a-cont .s-img{
-    width: 200px;
+    width: 290px;
     height: auto;
 }
 .a-cont,.sa-cont,#a-cont{
     width: webkit-fill-available;
-    margin-left: 91px;
+    margin-left: 6px;
         padding: 10px 0px;
         margin-right: auto;
 } 
 
 
 .imgg{
-    width: 200px;
+    width: -webkit-fill-available;
 }
 .cont-text{
     width: webkit-fill-available;
@@ -231,16 +237,18 @@ header h1{
     list-style-position: initial;
     line-break: loose;
     padding: 10px 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
 
     .s-img,.sa-img{
-        width: 200px;
+        width: 290px;
         height: auto;
     }
     #a-cont .s-img{
-        width: 200px;
+        width: 290px;
         height: auto;
     }
     .a-cont,.sa-cont,#a-cont{
@@ -261,7 +269,7 @@ header h1{
     margin: 0;
  }   
  .a-cont,.sa-cont,#a-cont{
-    margin-left: 120px;
+    margin-left: 75px;
     padding: 10px 0px;
     margin-right: auto;
     
